@@ -1,7 +1,7 @@
 import React from "react";
 
-function Reza() {
-  return <h1>This is Reza page</h1>;
+function frans_glendly() {
+  return <h1>This is frans glendly page</h1>;
 }
 
-export default Reza;
+export default frans_glendly;
