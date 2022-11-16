@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Adi() {
-  return (
-    <div>Adi's page</div>
-  )
+  return <div>{"Adi's page"}</div>;
 }
 
-export default Adi
+export default Adi;
