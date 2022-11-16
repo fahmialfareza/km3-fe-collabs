@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
 function Cikal() {
-  return <h1>Hola, this is Cikal's</h1>;
+  return <h1>Hola, this is {"Cikal's"}</h1>;
 }
 
 export default Cikal;
