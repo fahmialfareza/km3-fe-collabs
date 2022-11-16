@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Zaki() {
-  return (
-    <div>This is Zaki Page</div>
-  )
+  return <div>This is Zaki Page</div>;
 }
 
-export default Zaki
+export default Zaki;
